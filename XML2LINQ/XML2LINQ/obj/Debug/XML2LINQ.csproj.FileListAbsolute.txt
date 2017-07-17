@@ -1,0 +1,6 @@
+C:\proj\XML2LINQ\XML2LINQ\bin\Debug\XML2LINQ.exe.config
+C:\proj\XML2LINQ\XML2LINQ\bin\Debug\XML2LINQ.exe
+C:\proj\XML2LINQ\XML2LINQ\bin\Debug\XML2LINQ.pdb
+C:\proj\XML2LINQ\XML2LINQ\obj\Debug\XML2LINQ.csprojResolveAssemblyReference.cache
+C:\proj\XML2LINQ\XML2LINQ\obj\Debug\XML2LINQ.exe
+C:\proj\XML2LINQ\XML2LINQ\obj\Debug\XML2LINQ.pdb
